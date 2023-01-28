@@ -1,2 +1,1 @@
-# PrepCurso-Henry
-Este es un repositorio de prueba
+Este projecto es una prueba de como crear un repositorio y clonarlo

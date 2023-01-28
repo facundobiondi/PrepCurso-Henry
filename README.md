@@ -1,2 +1,2 @@
-# PrepCurso-Henery
+# PrepCurso-Henry
 Este es un repositorio de prueba
